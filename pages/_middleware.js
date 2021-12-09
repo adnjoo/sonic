@@ -9,6 +9,9 @@ export async function middleware(req) {
   //2) the token exists
 
   console.log('pathname', pathname)
+  if(!token){
+    return NextResponse.next();
+  }
 
   if (pathname.includes("/api/auth") || token) {
     console.log('token is', token)
