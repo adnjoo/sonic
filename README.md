@@ -2,7 +2,7 @@
 
 Next.js 12.0
 
-Next-auth
+Next-auth 4 beta
 
 Spotify-API
 

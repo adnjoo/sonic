@@ -60,6 +60,7 @@ export default NextAuth({
       console.log("expired, refreshing...");
       return await refreshAccessToken(token);
     },
+    
     async session({ session, token }) {
       session.user.accessToken = token.accessToken;
       session.user.refreshToken = token.refreshToken;

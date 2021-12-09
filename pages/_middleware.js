@@ -8,6 +8,8 @@ export async function middleware(req) {
   // 1) its a request for next-auth session & provider fetching
   //2) the token exists
 
+  console.log('pathname', pathname)
+
   if (pathname.includes("/api/auth") || token) {
     console.log('token is', token)
     return NextResponse.next();
