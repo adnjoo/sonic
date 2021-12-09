@@ -10,7 +10,6 @@ function Login({ providers }) {
         <div key={provider.name}>
           <button
             onClick={() => {
-              console.log(provider.id);
               signIn(provider.id, { callbackUrl: "/" })}}
             className="bg-[#18d860] p-5 text-white p-5 rounded-full"
           >
