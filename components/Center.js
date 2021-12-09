@@ -1,11 +1,19 @@
 import { ChevronDownIcon } from "@heroicons/react/outline";
 import { useSession } from "next-auth/react";
 
+const colors = [
+    'from-green-500',
+]
+
 const Center = () => {
   const { data: session } = useSession();
+  const [color, setColor] = useState(null)
+  useEffect(() => {
+    setColor()
+  }, [])
 
   return (
-    <div className="flex flex-grow">
+    <div className="flex-grow">
       <header className="absolute top-5 right-8">
         <div className="flex items-center bg-red-300 space-x-3 opacity-90 hover:opacity-80 cursor-pointer rounded-full p-1 pr-2">
           <img
