@@ -1,11 +1,14 @@
 ## tech
 
-next
+Next.js 12.0
 
-next-auth
+Next-auth
 
-spotify-api
+Spotify-API
 
+Recoil
+
+Tailwind
 
 ## instructions
 ```
