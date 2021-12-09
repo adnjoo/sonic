@@ -3,14 +3,13 @@ import Sidebar from '../components/Sidebar'
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="bg-black h-screen overflow-hidden">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Sonic</title>
+        <link rel="icon" href="/spotify_pride128.png" />
       </Head>
       <main>
         <Sidebar />
-        {/* Sidebar */}
         {/* Center */}
       </main>
       <div>
