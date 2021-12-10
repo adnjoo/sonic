@@ -1,4 +1,9 @@
-## Sonic
+<!-- PROJECT LOGO -->
+<br />
+<p style="text-align:center">
+
+<img src='https://raw.githubusercontent.com/adnjoo/Sonic/main/public/spotify_pride128.png' height='100'>
+</p>
 
 Spotify clone
 
@@ -16,7 +21,10 @@ Recoil
 
 Tailwind
 
+Vercel deployment
+
 ## instructions
+
 ```
 npm install
 npm run dev
