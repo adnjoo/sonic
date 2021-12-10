@@ -36,7 +36,7 @@ Tailwind
 
 Vercel deployment
 
-## Instructions
+## Instructions:
 
 
 ```
