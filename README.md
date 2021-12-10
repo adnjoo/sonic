@@ -25,7 +25,7 @@ Try App
 
 
 ## Technology:
-<hr>
+
 
 Next.js 12.0
 
@@ -41,7 +41,7 @@ Vercel deployment
 
 
 ## Instructions
-<hr>
+
 
 ```
 npm install
