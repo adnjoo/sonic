@@ -7,7 +7,7 @@
 
 <h3>Sonic</h3>
 <br />
-<div>This app is a Spotify clone using Next.js, and the Spotify API. It lets you play music in a Spotify premium account. </div>
+<div>This app is a Spotify clone using Next.js, and the Spotify API. It lets you change your Spotify music. </div>
 <br />
 <p>
 <a href=''>
@@ -26,7 +26,7 @@ Try App
 
 Next.js 12.0
 
-Next-auth 4 beta
+Next-Auth 4 beta
 
 Spotify-API
 
@@ -35,7 +35,6 @@ Recoil
 Tailwind
 
 Vercel deployment
-
 
 ## Instructions
 
