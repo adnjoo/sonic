@@ -23,21 +23,14 @@ Try App
 
 ## Technology:
 
-
-Next.js 12.0
-
-Next-Auth 4 beta
-
-Spotify-API
-
-Recoil
-
-Tailwind
-
-Vercel deployment
+* Next.js 12.0
+* Next-Auth 4 Beta
+* Spotify API
+* Recoil
+* Tailwind
+* Vercel Deployment
 
 ## Instructions:
-
 
 ```
 npm install
