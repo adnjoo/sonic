@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<div style='text-align:center'>
+<div align='center'>
 <img src='https://raw.githubusercontent.com/adnjoo/Sonic/main/public/spotify_pride128.png' height='100'>
 <br />
 <br />
