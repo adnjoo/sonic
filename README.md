@@ -1,4 +1,10 @@
-## tech
+## Sonic
+
+Spotify clone
+
+<img src='./scrn.png' height='200'>
+
+## Technology
 
 Next.js 12.0
 
