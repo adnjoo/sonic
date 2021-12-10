@@ -10,6 +10,7 @@ export default function Home() {
       <Head>
         <title>Sonic</title>
         <link rel="icon" href="/spotify_pride128.png" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/adnjoo/Sonic/main/scrn.png"></meta>
       </Head>
       <main className='flex'>
         <Sidebar />
