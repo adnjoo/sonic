@@ -13,7 +13,12 @@ function Songs() {
         </div>
       ));
     }
-    return "no playlist";
+    return (
+      <a href='/login'>
+        Click to login
+      </a>
+
+    )
   }
   return <div className="px-8 flex flex-col space-y-1 pb-28 text-white">{renderNames()}</div>;
 }
