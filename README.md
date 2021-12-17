@@ -33,6 +33,8 @@ Try App
 ## Instructions:
 
 ```
+git clone https://github.com/adnjoo/Sonic
+cd Sonic
 npm install
 npm run dev
 ```
