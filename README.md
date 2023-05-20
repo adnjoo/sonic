@@ -20,15 +20,14 @@ Try App
 </div>
 <br/>
 
-
 ## Technology:
 
-* Next.js 12.0
-* Next-Auth 4 Beta
-* Spotify API
-* Recoil
-* Tailwind
-* Vercel Deployment
+- Next.js 12.0
+- Next-Auth 4 Beta
+- Spotify API
+- Recoil
+- Tailwind
+- Vercel Deployment
 
 ## Instructions:
 
@@ -37,4 +36,14 @@ git clone https://github.com/adnjoo/Sonic
 cd Sonic
 npm install
 npm run dev
+```
+
+## Setup
+
+make sure to add an .env file with the following, to allow for login with Next.js:
+
+```bash
+NEXTAUTH_URL=...
+NEXT_PUBLIC_CLIENT_ID=...
+NEXT_PUBLIC_CLIENT_SECRET=...
 ```
