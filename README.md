@@ -10,7 +10,7 @@
 <div>This app is a Spotify clone using Next.js, and the Spotify API. It lets you mirror music in a web browser and a compatible device. </div>
 <br />
 <p>
-<a href='https://sonic-adnjoo.vercel.app/'>
+<!-- <a href='https://sonic-adnjoo.vercel.app/'> -->
 Try App
 </a>
 <br/>
