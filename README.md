@@ -40,11 +40,13 @@ npm run dev
 
 ## Setup
 
-make sure to add an .env file with the following, to allow for login with Next.js:
+make sure to add an .env file with the following, to allow for login:
 
 ```bash
-NEXTAUTH_URL=...
 NEXT_PUBLIC_CLIENT_ID=...
 NEXT_PUBLIC_CLIENT_SECRET=...
 JWT_SECRET=...
 ```
+
+where `NEXT_PUBLIC_CLIENT_ID`, and `NEXT_PUBLIC_CLIENT_SECRET` are your Spotify client ID and client secret, 
+and `JWT_SECRET` is your JWT secret.
